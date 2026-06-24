@@ -12,4 +12,4 @@
 - **Node.js** + **Express** — веб-сервер
 - **Docker** — контейнеризация
 - **Yandex Cloud** — инфраструктура (ВМ, Container Registry)
-- **GitHub Actions** — CI/CD пайплайныыы
+- **GitHub Actions** — CI/CD пайплайны
