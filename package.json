@@ -1,0 +1,14 @@
+{
+  "name": "exam-web-app",
+  "version": "1.0.0",
+  "description": "Web app for Yandex Cloud exam",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Andrei Veber",
+  "license": "MIT"
+}
