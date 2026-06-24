@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Exam Web App
 
 Простое веб-приложение на Node.js + Express, развёрнутое в Yandex Cloud через CI/CD (GitHub Actions).
